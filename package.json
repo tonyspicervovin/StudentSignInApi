@@ -1,0 +1,11 @@
+{
+    "name": "student-api",
+    "description": "Student Sign In API",
+    "author": "Tony",
+    "dependencies": {
+        "express": "^4.16.4"
+    },
+    "scripts": {
+        "start": "node ./server.js"
+    }
+}
